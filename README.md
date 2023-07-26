@@ -14,7 +14,6 @@ Pyspark Schema Generation
     "struct_array_field": [{
         "field_name": "field_type"
     }]
-    ""
 }
 ```
 
